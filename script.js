@@ -5,7 +5,7 @@ const strategies = [
     { id: 'E', front: 'Health, Safety & Wellbeing Strategy', isCorrect: true, back: 'It\'s correct! <br><br> To find out more, contact Dan Hutley.' },
     { id: 'G', front: 'Reward Strategy', isCorrect: true, back: 'It\'s correct! <br><br> To find out more, contact Jo Disney.' },
     { id: 'I', front: 'Workforce Planning Strategy', isCorrect: true, back: 'It\'s correct! <br><br> To find out more, contact Sara Mansell.' },
-    { id: 'K', front: 'Career Entry Strategy', isCorrect: true, back: 'It\'s correct! <br><br> To find out more, contact Rosie McTeague.' },
+    { id: 'K', front: 'Career Entry Strategy', isCorrect: true, back: 'It\'s correct! <br><br> To find out more, contact Rosie McTigue.' },
     { id: 'M', front: 'Apprenticeship Strategy', isCorrect: true, back: 'It\'s correct! <br><br> To find out more, contact Sara Mansell.' },
     { id: 'O', front: 'Resourcing Strategy', isCorrect: true, back: 'It\'s correct! <br><br> To find out more, contact Katie Gibson.' },
     { id: 'H', front: 'Digital Enabling Strategy', isCorrect: true, back: 'It\'s correct! <br><br> To find out more, contact Graham Dickinson.' },
